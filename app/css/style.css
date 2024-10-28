@@ -380,6 +380,11 @@ span {
     font-size: 1.6rem;
 }
 
+.footer-text a {
+    text-decoration: underline;
+    color: var(--main-color);
+}
+
 .footer-iconTop a {
     display: inline-flex;
     justify-content: center;
